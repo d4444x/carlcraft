@@ -1,0 +1,26 @@
+base:diamond   	hue	sat	light
+
+copper		-155	-	0
+brass(z)	-127	-	10
+brass(zz)	-120	-	11
+bronze(t)	-147	-	10
+bronze(tt)	-135	-	15
+bronze(tz)	-129	130	15
+           	
+steel(c)	-150	5	-10
+steel(cc)	-150	5	-40
+steel(n)	-115	30	5
+steel(nn)	-115	65	-5
+steel(b)	34	-	15
+steel(bb)	45	110	0
+steel(t)	-3	30	0
+steel(tt)	-10	55	15
+
+steel(cn)	-115	35	-20
+steel(cb)	45	90	-30
+steel(ct)	5	20	-20
+steel(nb)	28	95	-15
+steel(nt)	-85	50	-15
+steel(bt)	10	115	0
+
+Rose Gold (base is GOLD): hue -75, sat 50, light 0      	
