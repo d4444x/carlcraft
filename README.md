@@ -1,7 +1,31 @@
+#Installation
+
+1. open minecraft. do not press Play. On the bottom left, make a new profile, call it "temp", and set use version to 1.7.10
+
+2. press play. get all the way to the main screen (singleplayer, multiplayer...) and then close minecraft. this will download the vanilla 1.7.10 jar file.
+
+3. go to http://files.minecraftforge.net/
+go to Versions -> 1.7.10 -> 1.7.10, then click "show all downloads"
+CTRL-F for "1230" and download installer-win(if on windows) or installer(otherwise)
+
+4. Run the forge version 1.7.10..something..1230 file. When the gui pops up, select "Client" and press install
+
+5. Re-open minecraft. Create a new profile, call it "forge" or "coilcraft" or something.
+Make it version 1.7.10-forge (it's at the bottom of the versions list normally)
+
+6. Download the coilcraft jar file
+
+7. Navigate to the .minecraft folder (on windows: type %appdata% in the start menu)
+
+8. Make a folder called "mods" (all lowercase) in .minecraft, and place the coilcraft jar in it.
+
+Done!
+
+
 Coilcraft information for version 4.0
 Mod is for version 1.7.10 of Minecraft 
 
-Introduction
+###Introduction
 
 The purpose of this mod is to make Minecraft survival mode more interesting, and to increase the amount of play-time between starting out and reaching endgame gear. This mod has a bigger and more realistic tech tree than vanilla, and the tech tree is pretty flexible. There’s almost always more than one way to do things at every stage of the game. This mod requires and rewards gathering stacks and stacks of resources, and pretty much every resource you can find is useful.
 
