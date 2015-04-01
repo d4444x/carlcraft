@@ -1,5 +1,0 @@
-{
-"reload": {"category": "player","sounds": [{"name": "reload","stream": false}]},
-"gunpowder": {"category": "player","sounds": [{"name": "gunpowder","stream": false}]},
-"leadnugget": {"category": "player","sounds": [{"name": "leadnugget","stream": false}]}
-}
