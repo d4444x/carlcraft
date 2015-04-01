@@ -1,23 +1,19 @@
 #Installation
 
-1. open minecraft. do not press Play. On the bottom left, make a new profile, call it "temp", and set use version to 1.7.10
-
-2. press play. get all the way to the main screen (singleplayer, multiplayer...) and then close minecraft. this will download the vanilla 1.7.10 jar file.
-
-3. go to http://files.minecraftforge.net/
+1. go to http://files.minecraftforge.net/
 go to Versions -> 1.7.10 -> 1.7.10, then click "show all downloads"
 CTRL-F for "1230" and download installer-win(if on windows) or installer(otherwise)
 
-4. Run the forge version 1.7.10..something..1230 file. When the gui pops up, select "Client" and press install
+2. Run the forge version 1.7.10..something..1230 file. When the gui pops up, select "Client" and press install
 
-5. Re-open minecraft. Create a new profile, call it "forge" or "coilcraft" or something.
+3. Re-open minecraft. Create a new profile, call it "forge" or "coilcraft" or something.
 Make it version 1.7.10-forge (it's at the bottom of the versions list normally)
 
-6. Download the coilcraft jar file
+4. Download the coilcraft jar file
 
-7. Navigate to the .minecraft folder (on windows: type %appdata% in the start menu)
+5. Navigate to the .minecraft folder (on windows: type %appdata% in the start menu)
 
-8. Make a folder called "mods" (all lowercase) in .minecraft, and place the coilcraft jar in it.
+6. Make a folder called "mods" (all lowercase) in .minecraft, and place the coilcraft jar in it.
 
 Done!
 
